@@ -1,0 +1,27 @@
+D:\Programs\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe.config
+D:\Programs\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe
+D:\Programs\Game Chooser\Game Chooser\bin\Debug\Game Chooser.pdb
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.csprojAssemblyReference.cache
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game_Chooser.Form1.resources
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game_Chooser.Properties.Resources.resources
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.csproj.GenerateResource.cache
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.exe
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.pdb
+D:\Programs\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe.manifest
+D:\Programs\Game Chooser\Game Chooser\bin\Debug\Game Chooser.application
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.exe.manifest
+D:\Programs\Game Chooser\Game Chooser\obj\Debug\Game Chooser.application
+H:\ITC 513\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe.config
+H:\ITC 513\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe.manifest
+H:\ITC 513\Game Chooser\Game Chooser\bin\Debug\Game Chooser.application
+H:\ITC 513\Game Chooser\Game Chooser\bin\Debug\Game Chooser.exe
+H:\ITC 513\Game Chooser\Game Chooser\bin\Debug\Game Chooser.pdb
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.csprojAssemblyReference.cache
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game_Chooser.Form1.resources
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game_Chooser.Properties.Resources.resources
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.csproj.GenerateResource.cache
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.csproj.CoreCompileInputs.cache
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.exe.manifest
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.application
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.exe
+H:\ITC 513\Game Chooser\Game Chooser\obj\Debug\Game Chooser.pdb

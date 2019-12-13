@@ -1,0 +1,14 @@
+D:\Programs\Game Chooser\Game Chooser\bin\Release\Game Chooser.exe.config
+D:\Programs\Game Chooser\Game Chooser\bin\Release\Game Chooser.exe.manifest
+D:\Programs\Game Chooser\Game Chooser\bin\Release\Game Chooser.application
+D:\Programs\Game Chooser\Game Chooser\bin\Release\Game Chooser.exe
+D:\Programs\Game Chooser\Game Chooser\bin\Release\Game Chooser.pdb
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game_Chooser.Form1.resources
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game_Chooser.Properties.Resources.resources
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.csproj.GenerateResource.cache
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.csproj.CoreCompileInputs.cache
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.exe.manifest
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.application
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.exe
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.pdb
+D:\Programs\Game Chooser\Game Chooser\obj\Release\Game Chooser.csprojAssemblyReference.cache
